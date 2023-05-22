@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React,React Native,Typescript, and nextjs**
 
-- 📫 How to reach me **romanolantano11@gmail.com**
+- 📫 How to reach me **romslantano@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
