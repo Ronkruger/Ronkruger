@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronkruger" alt="ronkruger" /></a> </p>
 
-- 🌱 I’m currently learning **React,React Native,Typescript,nextjs,fullstack php web developer**
+- 🌱 I’m currently learning **React,React Native,Typescript,nextjs,php web developer**
 
 - 📫 How to reach me **romslantano@gmail.com**
 
